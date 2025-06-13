@@ -119,5 +119,4 @@ Example:
 
 ---
 
-Let me know if you'd like the Power BI file or Python code to replicate this!
 
